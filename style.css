@@ -9,7 +9,7 @@ body {
   width: 350px;
   border-radius: 50px;
   background-color: #849db1;
-  box-shadow: 1px 1px black;
+  box-shadow: 1px 1.5px 5px black;
   margin: auto;
 }
 .screen {
@@ -63,7 +63,7 @@ body {
   text-align: center;
   justify-content: center;
   align-items: center;
-  box-shadow: 1px 1px black;
+  box-shadow: 1px 1px 3px black;
   font-size: medium;
 }
 
